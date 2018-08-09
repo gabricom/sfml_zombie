@@ -1,0 +1,53 @@
+﻿  stdafx.cpp
+  Bullet.cpp
+  ConsoleApplication2.cpp
+c:\users\gabri\source\repos\sfml_zombie\consoleapplication2\player.h(8): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\gabri\source\repos\sfml_zombie\consoleapplication2\zombiearena.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\gabri\source\repos\sfml_zombie\consoleapplication2\zombiearena.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\gabri\source\repos\sfml_zombie\consoleapplication2\consoleapplication2.cpp(16): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\gabri\source\repos\sfml_zombie\consoleapplication2\consoleapplication2.cpp(17): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\gabri\source\repos\sfml_zombie\consoleapplication2\consoleapplication2.cpp(19): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  createBackground.cpp
+c:\users\gabri\source\repos\sfml_zombie\consoleapplication2\zombiearena.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\gabri\source\repos\sfml_zombie\consoleapplication2\zombiearena.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\gabri\source\repos\sfml_zombie\consoleapplication2\createbackground.cpp(31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\gabri\source\repos\sfml_zombie\consoleapplication2\createbackground.cpp(32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\gabri\source\repos\sfml_zombie\consoleapplication2\createbackground.cpp(33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\gabri\source\repos\sfml_zombie\consoleapplication2\createbackground.cpp(34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\gabri\source\repos\sfml_zombie\consoleapplication2\createbackground.cpp(53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\gabri\source\repos\sfml_zombie\consoleapplication2\createbackground.cpp(54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\gabri\source\repos\sfml_zombie\consoleapplication2\createbackground.cpp(55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\gabri\source\repos\sfml_zombie\consoleapplication2\createbackground.cpp(56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  CreateHorde.cpp
+c:\users\gabri\source\repos\sfml_zombie\consoleapplication2\createhorde.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\gabri\source\repos\sfml_zombie\consoleapplication2\createhorde.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\gabri\source\repos\sfml_zombie\consoleapplication2\zombiearena.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\gabri\source\repos\sfml_zombie\consoleapplication2\zombiearena.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\gabri\source\repos\sfml_zombie\consoleapplication2\createhorde.cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\gabri\source\repos\sfml_zombie\consoleapplication2\createhorde.cpp(25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\gabri\source\repos\sfml_zombie\consoleapplication2\createhorde.cpp(26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\gabri\source\repos\sfml_zombie\consoleapplication2\createhorde.cpp(31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\gabri\source\repos\sfml_zombie\consoleapplication2\createhorde.cpp(32): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\gabri\source\repos\sfml_zombie\consoleapplication2\createhorde.cpp(37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\gabri\source\repos\sfml_zombie\consoleapplication2\createhorde.cpp(38): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\gabri\source\repos\sfml_zombie\consoleapplication2\createhorde.cpp(43): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\gabri\source\repos\sfml_zombie\consoleapplication2\createhorde.cpp(44): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Pickup.cpp
+  player.cpp
+c:\users\gabri\source\repos\sfml_zombie\consoleapplication2\player.h(8): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\gabri\source\repos\sfml_zombie\consoleapplication2\player.cpp(18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\gabri\source\repos\sfml_zombie\consoleapplication2\player.cpp(19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\gabri\source\repos\sfml_zombie\consoleapplication2\player.cpp(111): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\gabri\source\repos\sfml_zombie\consoleapplication2\player.cpp(115): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\gabri\source\repos\sfml_zombie\consoleapplication2\player.cpp(119): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\gabri\source\repos\sfml_zombie\consoleapplication2\player.cpp(123): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\gabri\source\repos\sfml_zombie\consoleapplication2\player.cpp(128): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\gabri\source\repos\sfml_zombie\consoleapplication2\player.cpp(136): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\gabri\source\repos\sfml_zombie\consoleapplication2\player.cpp(140): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  TextureHolder.cpp
+c:\users\gabri\source\repos\sfml_zombie\consoleapplication2\textureholder.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Zombie.cpp
+c:\users\gabri\source\repos\sfml_zombie\consoleapplication2\zombie.cpp(46): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\gabri\source\repos\sfml_zombie\consoleapplication2\zombie.cpp(86): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+sfml-graphics-d.lib(sfml-graphics-d-2.dll) : fatal error LNK1112: module machine type 'x86' conflicts with target machine type 'x64'
