@@ -1,8 +1,9 @@
 ﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ConsoleApplication2.vcxproj, Timber.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  Pickup.cpp
-c:\users\gabri\source\repos\sfml_zombie\consoleapplication2\pickup.cpp(31): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
-c:\users\gabri\source\repos\sfml_zombie\consoleapplication2\pickup.cpp(32): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
-c:\users\gabri\source\repos\sfml_zombie\consoleapplication2\pickup.cpp(60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-c:\users\gabri\source\repos\sfml_zombie\consoleapplication2\pickup.cpp(118): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
-c:\users\gabri\source\repos\sfml_zombie\consoleapplication2\pickup.cpp(122): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  ConsoleApplication2.cpp
+c:\users\gabri\source\repos\sfml_zombie\consoleapplication2\player.h(8): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\gabri\source\repos\sfml_zombie\consoleapplication2\zombiearena.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\gabri\source\repos\sfml_zombie\consoleapplication2\zombiearena.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\gabri\source\repos\sfml_zombie\consoleapplication2\consoleapplication2.cpp(17): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\gabri\source\repos\sfml_zombie\consoleapplication2\consoleapplication2.cpp(18): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\gabri\source\repos\sfml_zombie\consoleapplication2\consoleapplication2.cpp(20): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
   ConsoleApplication2.vcxproj -> C:\Users\gabri\source\repos\sfml_zombie\Debug\ZombieArena.exe
