@@ -8,7 +8,7 @@
 #include "TextureHolder.h"
 
 Player::Player() : m_Speed{START_SPEED},m_Health{START_HEALTH},m_MaxHealth{START_HEALTH} {
-    m_Sprite.setTexture(TextureHolder::getTexture("graphics/player.png"));
+    m_Sprite.setTexture(TextureHolder::getTexture("graphics/roby.png"));
     m_Sprite.setOrigin(25,25); // Setto l'origine al centro dello sprite
 }
 

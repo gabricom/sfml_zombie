@@ -7,14 +7,14 @@ class Zombie
 {
 private:
 	// How fast is each zombie type?
-	const float BLOATER_SPEED = 40;
-	const float CHASER_SPEED = 80;
-	const float CRAWLER_SPEED = 20;
+	const float BLOATER_SPEED = 120;
+	const float CHASER_SPEED = 160;
+	const float CRAWLER_SPEED = 100;
 
 	// How tough is each zombie type
-	const float BLOATER_HEALTH = 5;
+	const float BLOATER_HEALTH = 3;
 	const float CHASER_HEALTH = 1;
-	const float CRAWLER_HEALTH = 3;
+	const float CRAWLER_HEALTH = 2;
 
 	// Make each zombie vary its speed slightly
 	const int MAX_VARRIANCE = 30;
